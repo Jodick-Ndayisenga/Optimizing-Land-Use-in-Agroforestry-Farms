@@ -124,40 +124,6 @@ I was responsible for the full end-to-end data analysis process, including:
 
 ---
 
-## 📌 How to Reproduce the Analysis
-
-1. Clone this repository:
-```bash
-   git clone https://github.com/yourusername/agroforestry-burundi.git
-   ```
-
-2. Install required packages:
-```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn statsmodels
-   ```
-
-3. Run the data cleaning script:
-```bash
-   python code/clean_data.py
-   ```
-
-4. Generate EDA visualizations:
-```bash
-   python code/eda.py
-   ```
-
-5. Prepare inputs for modeling:
-```bash
-   python code/prepare_model_inputs.py
-   ```
-
-6. View results in the `figures/` directory or run the notebook:
-```bash
-   jupyter notebook notebooks/analysis.ipynb
-   ```
-
----
-
 ## 📄 References
 
 - [Original SCIRP Paper](https://www.scirp.org/journal/paperinformation?paperid=140018)  
